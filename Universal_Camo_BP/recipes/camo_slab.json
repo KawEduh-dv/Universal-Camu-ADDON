@@ -1,0 +1,28 @@
+{
+  "format_version": "1.26.40",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "kedu:camo_slab_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "unlock": [
+      {
+        "item": "kedu:camo_block"
+      }
+    ],
+    "pattern": [
+      "BBB"
+    ],
+    "key": {
+      "B": {
+        "item": "kedu:camo_block"
+      }
+    },
+    "result": {
+      "item": "kedu:camo_slab",
+      "count": 6
+    }
+  }
+}

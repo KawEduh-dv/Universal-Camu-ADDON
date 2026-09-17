@@ -1,0 +1,21 @@
+{
+  "format_version": "1.26.40",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "kedu:camo_block_from_warped_stems_recipe"
+    },
+    "tags": ["crafting_table"],
+    "unlock": {
+      "context": "AlwaysUnlocked"
+    },
+    "pattern": ["SSS", "SLS", "SSS"],
+    "key": {
+      "S": {"item": "minecraft:stick"},
+      "L": {"tag": "minecraft:warped_stems"}
+    },
+    "result": {
+      "item": "kedu:camo_block",
+      "count": 8
+    }
+  }
+}

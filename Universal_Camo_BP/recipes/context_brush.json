@@ -1,0 +1,1 @@
+{"format_version":"1.26.40","minecraft:recipe_shaped":{"description":{"identifier":"kedu:context_brush_recipe"},"tags":["crafting_table"],"unlock":[{"item":"minecraft:feather"}],"pattern":[" FF"," CF","S  "],"key":{"F":{"item":"minecraft:feather"},"C":{"item":"minecraft:copper_ingot"},"S":{"item":"minecraft:stick"}},"result":{"item":"kedu:context_brush","count":1}}}

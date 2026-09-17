@@ -1,0 +1,11 @@
+{
+  "format_version": "1.26.40",
+  "minecraft:item": {
+    "description": { "identifier": "kedu:texture_trowel", "menu_category": { "category": "equipment", "group": "kedu:itemGroup.name.builder_tools" } },
+    "components": {
+      "minecraft:display_name": { "value": "item.kedu:texture_trowel.name" },
+      "minecraft:icon": "kedu:texture_trowel", "minecraft:max_stack_size": 1, "minecraft:hand_equipped": true,
+      "minecraft:durability": { "max_durability": 512 }, "minecraft:enchantable": { "slot": "pickaxe", "value": 8 }
+    }
+  }
+}

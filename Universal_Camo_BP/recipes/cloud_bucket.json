@@ -1,0 +1,1 @@
+{"format_version":"1.26.40","minecraft:recipe_shaped":{"description":{"identifier":"kedu:cloud_bucket_recipe"},"tags":["crafting_table"],"unlock":[{"item":"minecraft:phantom_membrane"}],"pattern":["SPS","SBS"," S "],"key":{"S":{"item":"minecraft:snowball"},"P":{"item":"minecraft:phantom_membrane"},"B":{"item":"minecraft:bucket"}},"result":{"item":"kedu:cloud_bucket","count":1}}}

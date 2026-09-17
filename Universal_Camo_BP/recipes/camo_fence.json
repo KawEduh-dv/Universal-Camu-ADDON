@@ -1,0 +1,32 @@
+{
+  "format_version": "1.26.40",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "kedu:camo_fence_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "unlock": [
+      {
+        "item": "kedu:camo_block"
+      }
+    ],
+    "pattern": [
+      "BSB",
+      "BSB"
+    ],
+    "key": {
+      "B": {
+        "item": "kedu:camo_block"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "kedu:camo_fence",
+      "count": 3
+    }
+  }
+}

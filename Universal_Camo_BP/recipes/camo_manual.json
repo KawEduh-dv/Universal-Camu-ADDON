@@ -1,0 +1,1 @@
+{"format_version":"1.26.40","minecraft:recipe_shapeless":{"description":{"identifier":"kedu:camo_manual_recipe"},"tags":["crafting_table"],"unlock":[{"item":"minecraft:book"}],"ingredients":[{"item":"minecraft:book"},{"item":"minecraft:feather"},{"item":"minecraft:stick"}],"result":{"item":"kedu:camo_manual","count":1}}}

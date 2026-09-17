@@ -1,0 +1,49 @@
+{
+  "format_version": "1.26.40",
+  "minecraft:crafting_items_catalog": {
+    "categories": [
+      {
+        "category_name": "construction",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "kedu:camo_block",
+              "name": "kedu:itemGroup.name.camo_blocks"
+            },
+            "items": [
+              "kedu:camo_block",
+              "kedu:camo_stairs",
+              "kedu:camo_slab",
+              "kedu:camo_vertical_slab",
+              "kedu:camo_fence",
+              "kedu:camo_wall",
+              "kedu:camo_trapdoor",
+              "kedu:camo_passable_block"
+            ]
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "kedu:copper_wrench",
+              "name": "kedu:itemGroup.name.builder_tools"
+            },
+            "items": [
+              "kedu:measuring_tape",
+              "kedu:copper_wrench",
+              "kedu:texture_trowel",
+              "kedu:context_brush",
+              "kedu:block_mover",
+              "kedu:cloud_bucket",
+              "kedu:camo_scraper",
+              "kedu:camo_manual"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
