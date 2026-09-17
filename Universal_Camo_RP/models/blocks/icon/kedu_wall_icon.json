@@ -1,0 +1,59 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.kedu_wall_icon",
+				"texture_width": 16,
+				"texture_height": 16,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "icon",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-8, 0, -4],
+							"size": [6, 16, 8],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [6, 16], "material_instance": "north"},
+								"east": {"uv": [4, 0], "uv_size": [8, 16], "material_instance": "east"},
+								"south": {"uv": [0, 0], "uv_size": [6, 16], "material_instance": "south"},
+								"west": {"uv": [4, 0], "uv_size": [8, 16], "material_instance": "west"},
+								"up": {"uv": [0, 4], "uv_size": [6, 8], "material_instance": "up"},
+								"down": {"uv": [0, 4], "uv_size": [6, 8], "material_instance": "down"}
+							}
+						},
+						{
+							"origin": [2, 0, -4],
+							"size": [6, 16, 8],
+							"uv": {
+								"north": {"uv": [10, 0], "uv_size": [6, 16], "material_instance": "north"},
+								"east": {"uv": [4, 0], "uv_size": [8, 16], "material_instance": "east"},
+								"south": {"uv": [10, 0], "uv_size": [6, 16], "material_instance": "south"},
+								"west": {"uv": [4, 0], "uv_size": [8, 16], "material_instance": "west"},
+								"up": {"uv": [10, 4], "uv_size": [6, 8], "material_instance": "up"},
+								"down": {"uv": [10, 4], "uv_size": [6, 8], "material_instance": "down"}
+							}
+						},
+						{
+							"origin": [-2, 0, -3],
+							"size": [4, 12, 6],
+							"uv": {
+								"north": {"uv": [6, 4], "uv_size": [4, 12], "material_instance": "north"},
+								"east": {"uv": [11, 4], "uv_size": [-6, 12], "material_instance": "east"},
+								"south": {"uv": [6, 4], "uv_size": [4, 12], "material_instance": "south"},
+								"west": {"uv": [11, 4], "uv_size": [-6, 12], "material_instance": "west"},
+								"up": {"uv": [6, 5], "uv_size": [4, 6], "material_instance": "up"},
+								"down": {"uv": [6, 5], "uv_size": [4, 6], "material_instance": "down"}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

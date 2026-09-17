@@ -1,0 +1,116 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.kedu_vertical_slab_icon",
+                "texture_width": 16,
+                "texture_height": 16,
+                "visible_bounds_width": 2,
+                "visible_bounds_height": 2.5,
+                "visible_bounds_offset": [
+                    0,
+                    0.75,
+                    0
+                ]
+            },
+            "bones": [
+                {
+                    "name": "icon",
+                    "pivot": [
+                        0,
+                        8,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        90,
+                        0
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -8,
+                                0,
+                                -4
+                            ],
+                            "size": [
+                                16,
+                                16,
+                                8
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        16,
+                                        16
+                                    ],
+                                    "material_instance": "north"
+                                },
+                                "east": {
+                                    "uv": [
+                                        4,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        16
+                                    ],
+                                    "material_instance": "east"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        16,
+                                        16
+                                    ],
+                                    "material_instance": "south"
+                                },
+                                "west": {
+                                    "uv": [
+                                        4,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        16
+                                    ],
+                                    "material_instance": "west"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        16,
+                                        8
+                                    ],
+                                    "material_instance": "up"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        16,
+                                        8
+                                    ],
+                                    "material_instance": "down"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

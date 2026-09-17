@@ -1,0 +1,34 @@
+{
+  "resource_pack_name": "Universal Camo",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "kedu:camo_scraper": {
+      "textures": [
+        "textures/studio/universal_camo/items/camo_scraper"
+      ]
+    },
+    "kedu:camo_manual": {
+      "textures": [
+        "textures/items/book_normal"
+      ]
+    },
+    "kedu:measuring_tape": {
+      "textures": ["textures/studio/universal_camo/items/measuring_tape"]
+    },
+    "kedu:copper_wrench": {
+      "textures": ["textures/studio/universal_camo/items/copper_wrench"]
+    },
+    "kedu:texture_trowel": {
+      "textures": ["textures/studio/universal_camo/items/texture_trowel"]
+    },
+    "kedu:context_brush": {
+      "textures": ["textures/studio/universal_camo/items/context_brush"]
+    },
+    "kedu:block_mover": {
+      "textures": ["textures/studio/universal_camo/items/block_mover"]
+    },
+    "kedu:cloud_bucket": {
+      "textures": ["textures/studio/universal_camo/items/cloud_bucket"]
+    }
+  }
+}

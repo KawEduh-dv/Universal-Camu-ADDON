@@ -1,0 +1,4639 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "kedu:camo_block": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_02_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_02_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_02_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_02_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_03_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_03_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_03_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_04_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_04_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_04_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_04_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_04_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_05_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_05_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_05_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_06_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_06_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_06_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_07_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_07_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_09_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_09_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_09_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_09_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_09_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_09_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_10_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_10_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_11_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_12_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_12_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_12_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_12_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_13_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_13_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_14_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_14_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_14_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_14_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_15_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_15_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_15_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_15_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_15_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_16": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_17": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_17_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_17_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_18": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_18_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_18_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_18_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_18_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_18_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_18_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_19": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_19_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_19_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_20": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_20_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_20_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_20_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_20_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_21": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_21_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_21_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_21_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_21_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_22": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_22_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_22_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_22_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_23": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_23_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_23_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_23_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_24": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_24_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_24_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_24_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_24_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_24_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_25": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_25_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_25_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_25_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_26": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_26_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_27": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_27_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_27_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_27_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_28": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_28_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_28_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_28_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_28_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_28_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_28_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_28_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_29": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_29_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_29_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_29_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_29_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_29_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_30": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_30_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_30_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_30_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_30_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_31": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_31_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_31_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_31_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_32": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_32_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_32_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_33": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_33_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_33_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_33_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_34": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_35": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_35_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_35_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_36": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_36_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_36_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_36_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_37": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_38": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_38_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_38_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_39": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_39_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_39_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_39_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_39_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_39_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_39_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_39_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_39_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_40": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_40_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_40_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_40_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_40_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_40_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_40_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_40_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_40_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_bank_41": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_41_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_02_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_02_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_02_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_02_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_03_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_03_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_03_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_04_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_04_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_04_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_04_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_04_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_05_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_05_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_05_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_06_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_06_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_06_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_07_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_07_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_09_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_09_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_09_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_09_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_09_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_09_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_10_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_10_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_11_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_12_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_12_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_12_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_12_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_13_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_13_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_14_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_14_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_14_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_14_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_15_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_15_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_15_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_15_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_15_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_16": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_17": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_17_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_17_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_18": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_18_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_18_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_18_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_18_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_18_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_18_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_19": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_19_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_19_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_20": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_20_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_20_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_20_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_20_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_21": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_21_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_21_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_21_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_21_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_22": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_22_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_22_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_22_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_23": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_23_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_23_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_23_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_24": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_24_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_24_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_24_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_24_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_24_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_25": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_25_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_25_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_25_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_26": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_26_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_27": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_27_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_27_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_27_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_28": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_28_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_28_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_28_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_28_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_28_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_28_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_28_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_29": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_29_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_29_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_29_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_29_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_29_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_30": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_30_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_30_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_30_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_30_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_31": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_31_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_31_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_31_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_32": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_32_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_32_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_33": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_33_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_33_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_33_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_34": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_35": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_35_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_35_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_36": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_36_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_36_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_36_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_37": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_38": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_38_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_38_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_39": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_39_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_39_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_39_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_39_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_39_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_39_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_39_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_39_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_40": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_40_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_40_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_40_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_40_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_40_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_40_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_40_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_40_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_bank_41": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_41_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_02_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_02_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_02_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_02_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_03_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_03_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_03_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_04_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_04_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_04_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_04_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_04_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_05_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_05_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_05_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_06_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_06_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_06_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_07_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_07_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_09_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_09_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_09_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_09_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_09_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_09_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_10_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_10_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_11_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_12_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_12_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_12_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_12_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_13_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_13_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_14_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_14_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_14_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_14_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_15_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_15_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_15_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_15_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_15_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_16": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_17": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_17_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_17_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_18": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_18_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_18_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_18_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_18_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_18_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_18_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_19": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_19_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_19_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_20": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_20_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_20_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_20_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_20_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_21": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_21_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_21_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_21_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_21_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_22": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_22_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_22_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_22_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_23": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_23_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_23_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_23_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_24": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_24_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_24_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_24_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_24_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_24_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_25": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_25_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_25_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_25_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_26": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_26_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_27": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_27_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_27_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_27_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_28": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_28_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_28_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_28_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_28_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_28_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_28_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_28_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_29": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_29_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_29_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_29_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_29_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_29_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_30": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_30_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_30_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_30_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_30_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_31": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_31_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_31_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_31_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_32": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_32_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_32_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_33": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_33_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_33_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_33_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_34": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_35": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_35_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_35_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_36": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_36_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_36_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_36_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_37": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_38": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_38_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_38_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_39": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_39_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_39_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_39_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_39_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_39_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_39_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_39_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_39_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_40": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_40_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_40_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_40_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_40_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_40_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_40_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_40_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_40_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_bank_41": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_41_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_02_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_02_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_02_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_02_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_03_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_03_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_03_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_04_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_04_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_04_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_04_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_04_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_05_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_05_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_05_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_06_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_06_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_06_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_07_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_07_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_09_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_09_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_09_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_09_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_09_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_09_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_10_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_10_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_11_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_12_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_12_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_12_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_12_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_13_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_13_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_14_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_14_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_14_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_14_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_15_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_15_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_15_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_15_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_15_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_16": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_17": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_17_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_17_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_18": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_18_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_18_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_18_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_18_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_18_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_18_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_19": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_19_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_19_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_20": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_20_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_20_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_20_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_20_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_21": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_21_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_21_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_21_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_21_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_22": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_22_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_22_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_22_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_23": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_23_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_23_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_23_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_24": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_24_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_24_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_24_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_24_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_24_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_25": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_25_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_25_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_25_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_26": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_26_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_27": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_27_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_27_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_27_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_28": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_28_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_28_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_28_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_28_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_28_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_28_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_28_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_29": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_29_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_29_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_29_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_29_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_29_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_30": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_30_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_30_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_30_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_30_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_31": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_31_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_31_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_31_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_32": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_32_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_32_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_33": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_33_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_33_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_33_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_34": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_35": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_35_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_35_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_36": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_36_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_36_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_36_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_37": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_38": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_38_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_38_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_39": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_39_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_39_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_39_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_39_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_39_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_39_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_39_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_39_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_40": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_40_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_40_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_40_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_40_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_40_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_40_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_40_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_40_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_bank_41": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_41_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_02_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_02_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_02_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_02_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_03_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_03_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_03_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_04_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_04_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_04_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_04_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_04_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_05_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_05_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_05_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_06_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_06_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_06_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_07_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_07_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_09_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_09_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_09_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_09_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_09_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_09_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_10_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_10_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_11_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_12_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_12_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_12_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_12_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_13_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_13_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_14_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_14_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_14_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_14_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_15_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_15_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_15_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_15_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_15_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_16": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_17": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_17_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_17_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_18": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_18_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_18_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_18_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_18_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_18_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_18_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_19": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_19_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_19_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_20": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_20_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_20_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_20_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_20_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_21": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_21_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_21_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_21_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_21_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_22": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_22_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_22_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_22_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_23": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_23_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_23_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_23_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_24": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_24_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_24_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_24_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_24_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_24_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_25": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_25_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_25_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_25_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_26": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_26_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_27": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_27_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_27_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_27_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_28": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_28_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_28_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_28_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_28_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_28_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_28_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_28_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_29": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_29_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_29_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_29_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_29_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_29_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_30": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_30_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_30_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_30_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_30_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_31": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_31_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_31_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_31_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_32": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_32_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_32_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_33": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_33_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_33_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_33_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_34": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_35": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_35_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_35_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_36": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_36_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_36_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_36_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_37": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_38": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_38_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_38_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_39": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_39_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_39_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_39_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_39_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_39_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_39_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_39_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_39_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_40": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_40_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_40_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_40_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_40_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_40_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_40_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_40_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_40_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_bank_41": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_41_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_02_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_02_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_02_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_02_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_03_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_03_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_03_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_04_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_04_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_04_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_04_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_04_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_05_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_05_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_05_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_06_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_06_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_06_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_07_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_07_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_09_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_09_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_09_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_09_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_09_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_09_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_10_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_10_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_11_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_12_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_12_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_12_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_12_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_13_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_13_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_14_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_14_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_14_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_14_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_15_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_15_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_15_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_15_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_15_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_16": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_17": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_17_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_17_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_18": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_18_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_18_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_18_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_18_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_18_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_18_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_19": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_19_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_19_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_20": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_20_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_20_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_20_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_20_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_21": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_21_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_21_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_21_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_21_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_22": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_22_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_22_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_22_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_23": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_23_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_23_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_23_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_24": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_24_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_24_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_24_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_24_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_24_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_25": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_25_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_25_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_25_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_26": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_26_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_27": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_27_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_27_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_27_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_28": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_28_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_28_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_28_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_28_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_28_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_28_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_28_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_29": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_29_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_29_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_29_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_29_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_29_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_30": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_30_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_30_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_30_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_30_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_31": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_31_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_31_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_31_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_32": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_32_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_32_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_33": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_33_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_33_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_33_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_34": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_35": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_35_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_35_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_36": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_36_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_36_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_36_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_37": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_38": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_38_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_38_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_39": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_39_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_39_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_39_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_39_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_39_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_39_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_39_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_39_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_40": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_40_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_40_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_40_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_40_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_40_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_40_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_40_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_40_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_bank_41": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_41_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_02_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_02_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_02_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_02_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_03_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_03_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_03_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_04_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_04_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_04_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_04_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_04_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_05_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_05_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_05_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_06_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_06_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_06_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_07_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_07_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_09_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_09_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_09_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_09_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_09_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_09_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_10_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_10_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_11_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_12_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_12_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_12_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_12_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_13_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_13_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_14_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_14_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_14_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_14_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_15_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_15_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_15_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_15_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_15_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_16": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_17": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_17_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_17_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_18": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_18_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_18_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_18_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_18_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_18_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_18_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_19": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_19_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_19_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_20": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_20_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_20_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_20_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_20_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_21": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_21_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_21_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_21_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_21_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_22": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_22_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_22_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_22_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_23": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_23_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_23_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_23_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_24": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_24_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_24_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_24_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_24_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_24_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_25": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_25_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_25_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_25_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_26": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_26_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_27": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_27_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_27_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_27_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_28": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_28_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_28_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_28_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_28_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_28_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_28_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_28_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_29": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_29_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_29_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_29_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_29_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_29_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_30": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_30_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_30_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_30_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_30_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_31": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_31_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_31_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_31_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_32": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_32_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_32_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_33": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_33_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_33_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_33_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_34": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_35": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_35_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_35_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_36": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_36_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_36_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_36_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_37": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_38": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_38_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_38_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_39": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_39_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_39_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_39_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_39_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_39_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_39_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_39_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_39_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_40": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_40_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_40_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_40_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_40_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_40_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_40_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_40_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_40_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_bank_41": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_41_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_02_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_02_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_02_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_02_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_03_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_03_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_03_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_04_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_04_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_04_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_04_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_04_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_05_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_05_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_05_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_06_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_06_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_06_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_07_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_07_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_09_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_09_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_09_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_09_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_09_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_09_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_10_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_10_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_11_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_12_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_12_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_12_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_12_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_13_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_13_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_14_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_14_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_14_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_14_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_15_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_15_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_15_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_15_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_15_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_16": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_17": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_17_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_17_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_18": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_18_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_18_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_18_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_18_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_18_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_18_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_19": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_19_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_19_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_20": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_20_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_20_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_20_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_20_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_21": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_21_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_21_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_21_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_21_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_22": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_22_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_22_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_22_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_23": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_23_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_23_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_23_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_24": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_24_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_24_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_24_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_24_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_24_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_25": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_25_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_25_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_25_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_26": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_26_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_27": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_27_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_27_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_27_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_28": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_28_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_28_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_28_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_28_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_28_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_28_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_28_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_29": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_29_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_29_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_29_13": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_29_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_29_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_30": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_30_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_30_15": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_30_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_30_07": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_31": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_31_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_31_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_31_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_32": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_32_03": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_32_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_33": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_33_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_33_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_33_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_34": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_35": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_35_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_35_09": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_36": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_36_11": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_36_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_36_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_37": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_38": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_38_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_38_05": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_39": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_39_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_39_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_39_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_39_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_39_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_39_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_39_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_39_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_40": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_40_04": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_40_06": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_40_08": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_40_02": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_40_10": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_40_12": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_40_14": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_40_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_bank_41": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_41_01": {
+    "sound": "stone"
+  },
+  "kedu:camo_block_material_02_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_02_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_02_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_02_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_02_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_02_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_02_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_02_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_04_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_04_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_04_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_04_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_04_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_04_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_04_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_04_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_07_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_07_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_07_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_07_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_07_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_07_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_07_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_07_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_11_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_11_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_11_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_11_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_11_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_11_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_11_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_11_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_12_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_12_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_12_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_12_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_12_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_12_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_12_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_12_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_20_11": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_20_11": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_20_11": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_20_11": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_20_11": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_20_11": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_20_11": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_20_11": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_24_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_24_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_24_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_24_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_24_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_24_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_24_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_24_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_25_03": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_25_03": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_25_03": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_25_03": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_25_03": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_25_03": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_25_03": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_25_03": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_27_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_27_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_27_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_27_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_27_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_27_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_27_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_27_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_33_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_33_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_33_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_33_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_33_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_33_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_33_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_33_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_34_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_34_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_34_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_34_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_34_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_34_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_34_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_34_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_34_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_34_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_34_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_34_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_34_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_34_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_34_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_34_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_34_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_34_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_34_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_34_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_34_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_34_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_34_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_34_07": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_34_08": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_34_08": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_34_08": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_34_08": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_34_08": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_34_08": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_34_08": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_34_08": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_34_10": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_34_10": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_34_10": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_34_10": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_34_10": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_34_10": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_34_10": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_34_10": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_34_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_34_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_34_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_34_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_34_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_34_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_34_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_34_12": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_34_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_34_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_34_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_34_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_34_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_34_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_34_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_34_14": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_35_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_35_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_35_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_35_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_35_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_35_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_35_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_35_00": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_35_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_35_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_35_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_35_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_35_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_35_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_35_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_35_02": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_35_04": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_35_04": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_35_04": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_35_04": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_35_04": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_35_04": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_35_04": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_35_04": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_35_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_35_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_35_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_35_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_35_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_35_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_35_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_35_05": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_36_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_stairs_material_36_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_slab_material_36_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_vertical_slab_material_36_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_fence_material_36_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_wall_material_36_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_trapdoor_material_36_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_passable_block_material_36_13": {
+    "sound": "wood"
+  },
+  "kedu:camo_block_material_31_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_stairs_material_31_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_slab_material_31_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_vertical_slab_material_31_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_fence_material_31_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_wall_material_31_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_trapdoor_material_31_00": {
+    "sound": "stone"
+  },
+  "kedu:camo_passable_block_material_31_00": {
+    "sound": "stone"
+  }
+}
